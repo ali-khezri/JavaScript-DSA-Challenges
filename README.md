@@ -1,4 +1,4 @@
-JavaScript Challenges – Data Structures & Algorithms
+#JavaScript Challenges – Data Structures & Algorithms
 
 This repository contains my solutions to the “JavaScript Challenges: Data Structures &amp; Algorithms”.
 
