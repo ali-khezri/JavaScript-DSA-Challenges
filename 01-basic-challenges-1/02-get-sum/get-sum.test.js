@@ -1,6 +1,6 @@
-const getSum = require('./get-sum');
+const getSum = require("./get-sum");
 
-test('Calculating the sum of two numbers', () => {
+test("Calculating the sum of two numbers", () => {
   // Test case inputs
   const num1 = 5;
   const num2 = 7;
