@@ -47,8 +47,8 @@ Feedback and alternative solutions are always welcome.
 | #   | Challenge                  | Status |
 | --- | -------------------------- | ------ |
 | 01  | Hello World Test Challenge | ✅     |
-| 02  | Get Sum Test Challenge     | ⭕     |
-| 03  | Calculator                 | ⭕     |
+| 02  | Get Sum Test Challenge     | ✅     |
+| 03  | Calculator                 | ✅     |
 | 04  | Count Occurrences          | ⭕     |
 | 05  | Find Max Number            | ⭕     |
 | 06  | Title Case                 | ⭕     |
