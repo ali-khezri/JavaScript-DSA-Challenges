@@ -49,7 +49,7 @@ Feedback and alternative solutions are always welcome.
 | 01  | Hello World Test Challenge | ✅     |
 | 02  | Get Sum Test Challenge     | ✅     |
 | 03  | Calculator                 | ✅     |
-| 04  | Count Occurrences          | ⭕     |
+| 04  | Count Occurrences          | ✅     |
 | 05  | Find Max Number            | ⭕     |
 | 06  | Title Case                 | ⭕     |
 | 07  | Reverse String             | ⭕     |
