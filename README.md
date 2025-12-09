@@ -51,7 +51,7 @@ Feedback and alternative solutions are always welcome.
 | 03  | Calculator                 | ✅     |
 | 04  | Count Occurrences          | ✅     |
 | 05  | Find Max Number            | ✅     |
-| 06  | Title Case                 | ⭕     |
+| 06  | Title Case                 | ✅     |
 | 07  | Reverse String             | ⭕     |
 | 08  | Palindrome                 | ⭕     |
 | 09  | Count Vowels               | ⭕     |
