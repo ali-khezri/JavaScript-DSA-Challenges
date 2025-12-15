@@ -55,7 +55,7 @@ Feedback and alternative solutions are always welcome.
 | 07  | Reverse String             | ✅     |
 | 08  | Palindrome                 | ✅     |
 | 09  | Count Vowels               | ✅     |
-| 10  | Remove Duplicates          | ⭕     |
+| 10  | Remove Duplicates          | ✅     |
 
 ---
 
