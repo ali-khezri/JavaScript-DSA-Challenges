@@ -64,7 +64,7 @@ Feedback and alternative solutions are always welcome.
 | #   | Challenge                     | Status |
 | --- | ----------------------------- | ------ |
 | 11  | FizzBuzz Array                | ✅     |
-| 12  | Array Intersection            | ⭕     |
+| 12  | Array Intersection            | ✅     |
 | 13  | Display Likes                 | ⭕     |
 | 14  | Find Missing Number           | ⭕     |
 | 15  | Find Missing Letter           | ⭕     |
