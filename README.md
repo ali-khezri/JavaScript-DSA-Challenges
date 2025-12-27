@@ -69,7 +69,7 @@ Feedback and alternative solutions are always welcome.
 | 14  | Find Missing Number           | ✅     |
 | 15  | Find Missing Letter           | ✅     |
 | 16  | Are All Characters Unique     | ✅     |
-| 17  | First Non-Repeating Character | ⭕     |
+| 17  | First Non-Repeating Character | ✅     |
 | 18  | Dice Game Simulation          | ⭕     |
 | 19  | Format Phone Number           | ⭕     |
 | 20  | Validate Email                | ⭕     |
