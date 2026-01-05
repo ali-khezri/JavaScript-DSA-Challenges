@@ -71,7 +71,7 @@ Feedback and alternative solutions are always welcome.
 | 16  | Are All Characters Unique     | ✅     |
 | 17  | First Non-Repeating Character | ✅     |
 | 18  | Dice Game Simulation          | ✅     |
-| 19  | Format Phone Number           | ⭕     |
+| 19  | Format Phone Number           | ✅     |
 | 20  | Validate Email                | ⭕     |
 
 ---
