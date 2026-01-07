@@ -72,7 +72,7 @@ Feedback and alternative solutions are always welcome.
 | 17  | First Non-Repeating Character | ✅     |
 | 18  | Dice Game Simulation          | ✅     |
 | 19  | Format Phone Number           | ✅     |
-| 20  | Validate Email                | ⭕     |
+| 20  | Validate Email                | ✅     |
 
 ---
 
