@@ -83,7 +83,7 @@ Feedback and alternative solutions are always welcome.
 | 21  | Simple Examples              | ✅     |
 | 22  | Sum Of Even Squares          | ✅     |
 | 23  | Calculate Total Sales        | ✅     |
-| 24  | Highest Scoring Word         | ⭕     |
+| 24  | Highest Scoring Word         | ✅     |
 | 25  | Valid Anagrams               | ⭕     |
 | 26  | HashTag Generator            | ⭕     |
 | 27  | Valid IPv4 Address           | ⭕     |
