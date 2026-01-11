@@ -14,8 +14,7 @@ function validAnagrams(str1, str2) {
     return acc;
   }, {});
 
-  return Object.keys(red1).every((char) => red2[char] === red1[char])
-
+  return Object.keys(red1).every((char) => red2[char] === red1[char]);
 }
 
 module.exports = validAnagrams;
