@@ -87,7 +87,7 @@ Feedback and alternative solutions are always welcome.
 | 25  | Valid Anagrams               | ✅     |
 | 26  | HashTag Generator            | ✅     |
 | 27  | Valid IPv4 Address           | ✅     |
-| 28  | Analyze Car Milage           | ⭕     |
+| 28  | Analyze Car Milage           | ✅     |
 | 29  | Password Validator           | ⭕     |
 | 30  | Find Missing Letter Refactor | ⭕     |
 
