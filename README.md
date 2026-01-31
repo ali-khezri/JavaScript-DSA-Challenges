@@ -89,7 +89,7 @@ Feedback and alternative solutions are always welcome.
 | 27  | Valid IPv4 Address           | ✅     |
 | 28  | Analyze Car Milage           | ✅     |
 | 29  | Password Validator           | ✅     |
-| 30  | Find Missing Letter Refactor | ⭕     |
+| 30  | Find Missing Letter Refactor | ✅     |
 
 ---
 
