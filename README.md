@@ -97,8 +97,8 @@ Feedback and alternative solutions are always welcome.
 
 | #   | Challenge                    | Status |
 | --- | ---------------------------- | ------ |
-| 31  | Recursion Intro (Count Down) | ⭕     |
-| 32  | Unwinding (Sum Up To)        | ⭕     |
+| 31  | Recursion Intro (Count Down) | ✅     |
+| 32  | Unwinding (Sum Up To)        | ✅     |
 | 33  | Reverse String Recursion     | ⭕     |
 | 34  | Fibonacci Sequence           | ⭕     |
 | 35  | Factorial                    | ⭕     |
